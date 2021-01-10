@@ -1,0 +1,41 @@
+
+.main-container {
+	display: flex;
+	 align-items: center;
+    width: 90%;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 0 0 50px 0 rgba(146, 146, 146, 0.63);
+    float:left;
+    border:1px;
+    position:absolute;
+	left:44px;
+	top:1px;
+}
+
+.code
+{
+	font-size:86px; 
+	position:absolute;
+	left:600px;
+	top:70px;
+}
+
+.msg
+{
+	font-size:19px; 
+	position:absolute;
+	left:603px;
+	top:155px;
+}
+.action
+{
+	font-size:16px; 
+	position:absolute;
+	left:700px;
+	top:175px;
+}
+
+
+
+

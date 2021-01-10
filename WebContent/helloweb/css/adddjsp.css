@@ -1,0 +1,27 @@
+body
+{
+	background-image: linear-gradient(#3D4B54,#5094BE);
+	
+}
+.class1
+{
+	color:white;
+}
+.btn1
+{
+	width:45px; 
+	height:27px; 
+	border-radius:8px;
+	 border:0.5px solid ;
+	 background-color:transparent;
+	 font-size:14px; 
+	 color:rgba(249,248,248,1.00);
+}
+input
+{
+	border-radius:8px;
+	width:150px; 
+	height:27px;
+}
+
+
